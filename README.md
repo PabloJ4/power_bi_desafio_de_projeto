@@ -1,4 +1,4 @@
-# Desafio de projeto do Santander Bootcamp 2023 - Ciência de Dados com Pythonpower_bi_desafio_de_projeto
+# Desafio de projeto do Santander Bootcamp 2023 - Ciência de Dados com Python 
 ## Obtenção e transformação de dados com Power BI e MySQL na Azure
 
 
